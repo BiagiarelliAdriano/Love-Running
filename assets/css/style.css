@@ -238,6 +238,11 @@ hr {
 /* For screens 1200px and wider */
 @media screen and (min-width: 1200px) {
     /* Reasons section */
+
+    #reasons h1 {
+        text-align: center;
+    }
+    
     #benefits {
         display: flex;
         flex-direction: row;
